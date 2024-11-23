@@ -6,17 +6,16 @@ const Sobre = () => {
             <div>
                 <h1 >Sobre mim</h1>
                 <p >
-                    Meu primeiro contato com o mundo da programação foi em 2022, mas foi em 2023 que descobri o quanto gosto de desnvolvimento Front-End. Desde então busquei realizar vários cursos livres e estou sempre à procura aprender cada vez mais.
-                </p>
+                  Sou programadora trainee e estudante de Engenharia de Software, apaixonada por tecnologia e desenvolvimento Front-End. </p>
                 <p>
-                    Fiz um curso de qualificação profissional em Programador de Sistemas e um de Programador Web no SENAC através do programa Jovem Programador. Aprendi conceitos básicos de SQL e modelagem de dados, além de lógica de programação, vi um pouco sobre testes e elaboração de projetos web e publicar rpojetos web. No curso de programação para web vi sobre HTML, CSS, JavaScript e conceitos básicos de php.
-                </p>
+                    Meu primeiro contato com a programação foi em 2022, mas foi em 2023 que mergulhei de vez nesse universo, dedicando-me a cursos e projetos que impulsionam minha evolução constante. </p>
                 <p>
-                    Também participei do Programa ONE Oracle + Alura, tive aulas de HTML, CSS, JavaScript, arquitetura CSS, React, Git e soft skills. Realizei outros cursos online sobre desenvolvimento Front-End.
-                    Agora estou criando projetos para praticar o que tenho estudado, e cada vez mais gosto de React.
-                    Planos para 2024: aprender Typescript, NextJs, UI/UX, Styled Components e NodeJs.
+                   Ao longo da minha trajetória, concluí qualificações em Programador de Sistemas e Programador Web pelo SENAC, onde adquiri experiência em HTML, CSS, JavaScript, fundamentos de PHP, SQL, lógica de programação, testes e publicação de projetos.
                 </p>
-            </div>
+                <p>Ao longo da minha trajetória, concluí qualificações em Programador de Sistemas e Programador Web pelo SENAC, onde adquiri experiência em HTML, CSS, JavaScript, fundamentos de PHP, SQL, lógica de programação, testes e publicação de projetos.<p/>
+            <p>Também participei do Programa ONE Oracle + Alura, onde me aprofundei em React, Git, arquitetura CSS e soft skills essenciais para o mercado.</p>
+                    <p>Hoje, estudo TypeScript, Node.js e React, aplicando o que aprendo em projetos práticos que me desafiam e me motivam. Meu próximo objetivo? Dominar Java e expandir ainda mais minhas possibilidades como desenvolvedora.</p>
+                </div>
             <div className=''>
                 <h2 >Tecnologias que utilizo atualmente</h2>
             </div>
